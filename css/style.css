@@ -350,7 +350,7 @@ a {
     width: 0%;
   }
   to {
-    width: 70%;
+    width: 25%;
   }
 }
 
@@ -359,7 +359,7 @@ a {
     width: 0%;
   }
   to {
-    width: 70%;
+    width: 25%;
   }
 }
 @-webkit-keyframes skill_2 {
@@ -367,7 +367,7 @@ a {
     width: 0%;
   }
   to {
-    width: 45%;
+    width: 25%;
   }
 }
 @keyframes skill_2 {
@@ -375,7 +375,7 @@ a {
     width: 0%;
   }
   to {
-    width: 45%;
+    width: 25%;
   }
 }
 @-webkit-keyframes skill_3 {
@@ -383,7 +383,7 @@ a {
     width: 0%;
   }
   to {
-    width: 30%;
+    width: 25%;
   }
 }
 @keyframes skill_3 {
@@ -391,7 +391,7 @@ a {
     width: 0%;
   }
   to {
-    width: 30%;
+    width: 25%;
   }
 }
 @-webkit-keyframes skill_4 {
@@ -399,7 +399,7 @@ a {
     width: 0%;
   }
   to {
-    width: 30%;
+    width: 25%;
   }
 }
 @keyframes skill_4 {
@@ -407,7 +407,7 @@ a {
     width: 0%;
   }
   to {
-    width: 30%;
+    width: 25%;
   }
 }
 @-webkit-keyframes skill_5 {
@@ -415,7 +415,7 @@ a {
     width: 0%;
   }
   to {
-    width: 60%;
+    width: 25%;
   }
 }
 @keyframes skill_5 {
@@ -423,7 +423,7 @@ a {
     width: 0%;
   }
   to {
-    width: 60%;
+    width: 25%;
   }
 }
 @-webkit-keyframes skill_6 {
