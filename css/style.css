@@ -44,10 +44,11 @@ a {
 }
 
 .profile {
-  background: #fff;
+  background: rgb(144, 197, 204);
   width: 40%;
+  min-height: 200%;
   float: left;
-  color: #9099a0;
+  color: #232629;
 }
 @media (max-width: 850px) {
   .profile {
@@ -247,6 +248,11 @@ a {
   }
 }
 .experience .experience-title {
+  color: white;
+  margin-bottom: 15px;
+}
+
+.skill-title {
   color: white;
   margin-bottom: 15px;
 }
