@@ -5,17 +5,23 @@
 }
 
 html, body {
-  height: 100%;
+  position:absolute;
+  /*height: 100%;*/
+  width:95%;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-image: linear-gradient(to right, white , #232629);
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5em;
+  
 }
 
 a {
-  color: #66cc99;
+  color: #71def1;
   text-decoration: none;
 }
 
@@ -44,9 +50,8 @@ a {
 }
 
 .profile {
-  background: rgb(144, 197, 204);
   width: 40%;
-  min-height: 200%;
+  min-height: auto;
   float: left;
   color: #232629;
 }
@@ -101,6 +106,7 @@ a {
   display: table;
   position: relative;
   vertical-align: middle;
+  left: -5vh;
 }
 .profile .picture-resume span {
   display: table-cell;
@@ -211,10 +217,11 @@ a {
 @media (max-width: 850px) {
   .experience {
     width: 100%;
+    
   }
 }
 .experience h3.experience-title {
-  color: #66cc99;
+  color: #71def1;
   text-align: left;
   text-transform: uppercase;
   font-size: 1.2em;
@@ -288,7 +295,7 @@ a {
   padding-right: 8%;
 }
 .section-wrapper h3.section-title {
-  color: #66cc99;
+  color: #71def1;
   text-align: left;
   text-transform: uppercase;
   font-size: 1.2em;
